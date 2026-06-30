@@ -1,2 +1,41 @@
-# 0bfac5cd-docker-kubernetes-client-onb
-Onboarding new Docker &amp; Kubernetes clients manually is eating your team's time and creating security gaps. The Docker &amp; Kubernetes Client Onboarding Automation N8N Workflow eliminates repetitive setup tasks and enforces consistent RBAC policies across every deployment.  This ready-to-use N8N workflow automates the entire client onboarding process f
+# Docker & Kubernetes Client Onboarding Automation N8N Workflow
+
+> Workflow for Docker Kubernetes
+
+Onboarding new Docker & Kubernetes clients manually is eating your team's time and creating security gaps. The Docker & Kubernetes Client Onboarding Automation N8N Workflow eliminates repetitive setup tasks and enforces consistent RBAC policies across every deployment.
+
+This ready-to-use N8N workflow automates the entire client onboarding...
+
+## Features
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic triggers | ✅ | ✅ |
+| Standard nodes | ✅ | ✅ |
+| Manual execution | ✅ | ✅ |
+| Advanced triggers | ❌ | ✅ |
+| Custom nodes | ❌ | ✅ |
+| Scheduled execution | ❌ | ✅ |
+| Error handling | ❌ | ✅ |
+| Webhook integrations | ❌ | ✅ |
+
+## Get the Full Version
+
+Upgrade to the Pro version for **$29.99** and unlock all premium features.
+
+**[Buy Now (Stripe)](https://buy.stripe.com/7sY6oH26HbUE6xy47qcZs3v)** — Secure checkout
+
+## Installation
+
+1. Download the latest release from the [Releases page](../../releases)
+2. Extract and follow the setup instructions in the included documentation
+3. For Pro features, enter your license key after purchase
+
+## Support
+
+- Open an [issue](../../issues) for bug reports
+
+## License
+
+Free tier: MIT License for personal and commercial use.
+Pro tier: Commercial license included with purchase.
